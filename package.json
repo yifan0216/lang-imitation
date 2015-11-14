@@ -1,0 +1,26 @@
+{
+  "name": "lang-imitation",
+  "version": "1.0.0",
+  "description": "language imitation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yifan0216/lang-imitation.git"
+  },
+  "keywords": [
+    "language",
+    "model"
+  ],
+  "author": "yifan.zy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yifan0216/lang-imitation/issues"
+  },
+  "homepage": "https://github.com/yifan0216/lang-imitation#readme",
+  "dependencies": {
+    "nodejieba": "^1.4.1"
+  }
+}
